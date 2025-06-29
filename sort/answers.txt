@@ -1,0 +1,11 @@
+sort1 uses:bubble sort
+
+How do you know?: because there is a big difference in time when we use a best case senario and a worst case senario, and sence big 0 and omega o are different in bubble sort, i concluded it is bubble sort
+
+sort2 uses: merge sort 
+
+How do you know?: with a larg and small number sets, the time does not vary much, hence o(nlogn)
+
+sort3 uses: selection sort
+
+How do you know?: there is big difference in time between large and small number sets, hence the big(o2)
